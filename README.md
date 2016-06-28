@@ -4,7 +4,6 @@
 
 
 <DOCTYPE! html > 
-
-<title> <h1> Wendy Cuevas </h1> </title> 
+ <h1> Wendy Cuevas </h1>  
 
 <body> HI ! my name is Wendy can i am currently in girls who code learning how to code with pyton </body> 
